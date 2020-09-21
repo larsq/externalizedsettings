@@ -1,0 +1,14 @@
+{
+  "settings": [
+    {
+      "name": "name",
+      "url": "http://example.com/1",
+      "username": "username",
+      "password": "password"
+    },
+    {
+      "name": "other",
+      "url": "http://example.com/2"
+    }
+  ]
+}
